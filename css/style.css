@@ -34,6 +34,7 @@ h4 {
 .indifferent {
   box-shadow:  -1px 1px #bab830, -2px 2px #bab830, -3px 3px #bab830, -4px 4px #bab830, -5px 5px #bab830;
   background-color: #dddd22;
+  background: linear-gradient(to right, #15702c, #dddd22)
 }
 
 .dubious {
