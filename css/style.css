@@ -38,6 +38,10 @@ h4.amiable{
 .indifferent {
   box-shadow:  -1px 1px #bab830, -2px 2px #bab830, -3px 3px #bab830, -4px 4px #bab830, -5px 5px #bab830;
   background-color: #dddd22;
+  
+}
+
+h4.indifferent{
   background: linear-gradient(to right, #8a8a15, #dddd22)
 }
 
